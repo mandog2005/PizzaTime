@@ -1,0 +1,10 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>PizzaTimeTM</groupId>
+  <artifactId>PizzaTimeTM1.1</artifactId>
+  <version>version 1.1</version>
+  <name>PizzaTime</name>
+  <description>Mr. Aziz was sure that you will deliver the pizza on time. Eating is the job is a no-no, but Mr.Aziz is sure that if you do not deliver these pizzas on time you will be FIRED.
+
+Deliver the pizza, or face the consequences.</description>
+</project>
